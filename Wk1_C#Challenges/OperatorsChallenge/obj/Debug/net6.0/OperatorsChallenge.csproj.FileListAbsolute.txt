@@ -1,0 +1,15 @@
+D:\Revature\KylerD\OperatorsChallenge\bin\Debug\net6.0\OperatorsChallenge.exe
+D:\Revature\KylerD\OperatorsChallenge\bin\Debug\net6.0\OperatorsChallenge.deps.json
+D:\Revature\KylerD\OperatorsChallenge\bin\Debug\net6.0\OperatorsChallenge.runtimeconfig.json
+D:\Revature\KylerD\OperatorsChallenge\bin\Debug\net6.0\OperatorsChallenge.dll
+D:\Revature\KylerD\OperatorsChallenge\bin\Debug\net6.0\ref\OperatorsChallenge.dll
+D:\Revature\KylerD\OperatorsChallenge\bin\Debug\net6.0\OperatorsChallenge.pdb
+D:\Revature\KylerD\OperatorsChallenge\obj\Debug\net6.0\OperatorsChallenge.csproj.AssemblyReference.cache
+D:\Revature\KylerD\OperatorsChallenge\obj\Debug\net6.0\OperatorsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\KylerD\OperatorsChallenge\obj\Debug\net6.0\OperatorsChallenge.AssemblyInfoInputs.cache
+D:\Revature\KylerD\OperatorsChallenge\obj\Debug\net6.0\OperatorsChallenge.AssemblyInfo.cs
+D:\Revature\KylerD\OperatorsChallenge\obj\Debug\net6.0\OperatorsChallenge.csproj.CoreCompileInputs.cache
+D:\Revature\KylerD\OperatorsChallenge\obj\Debug\net6.0\OperatorsChallenge.dll
+D:\Revature\KylerD\OperatorsChallenge\obj\Debug\net6.0\ref\OperatorsChallenge.dll
+D:\Revature\KylerD\OperatorsChallenge\obj\Debug\net6.0\OperatorsChallenge.pdb
+D:\Revature\KylerD\OperatorsChallenge\obj\Debug\net6.0\OperatorsChallenge.genruntimeconfig.cache

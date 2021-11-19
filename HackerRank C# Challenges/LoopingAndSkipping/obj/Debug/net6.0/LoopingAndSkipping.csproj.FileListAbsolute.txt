@@ -1,0 +1,15 @@
+D:\Revature\KylerD\HackerRank C# Challenges\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.csproj.AssemblyReference.cache
+D:\Revature\KylerD\HackerRank C# Challenges\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\KylerD\HackerRank C# Challenges\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.AssemblyInfoInputs.cache
+D:\Revature\KylerD\HackerRank C# Challenges\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.AssemblyInfo.cs
+D:\Revature\KylerD\HackerRank C# Challenges\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.csproj.CoreCompileInputs.cache
+D:\Revature\KylerD\HackerRank C# Challenges\LoopingAndSkipping\bin\Debug\net6.0\LoopingAndSkipping.exe
+D:\Revature\KylerD\HackerRank C# Challenges\LoopingAndSkipping\bin\Debug\net6.0\LoopingAndSkipping.deps.json
+D:\Revature\KylerD\HackerRank C# Challenges\LoopingAndSkipping\bin\Debug\net6.0\LoopingAndSkipping.runtimeconfig.json
+D:\Revature\KylerD\HackerRank C# Challenges\LoopingAndSkipping\bin\Debug\net6.0\LoopingAndSkipping.dll
+D:\Revature\KylerD\HackerRank C# Challenges\LoopingAndSkipping\bin\Debug\net6.0\ref\LoopingAndSkipping.dll
+D:\Revature\KylerD\HackerRank C# Challenges\LoopingAndSkipping\bin\Debug\net6.0\LoopingAndSkipping.pdb
+D:\Revature\KylerD\HackerRank C# Challenges\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.dll
+D:\Revature\KylerD\HackerRank C# Challenges\LoopingAndSkipping\obj\Debug\net6.0\ref\LoopingAndSkipping.dll
+D:\Revature\KylerD\HackerRank C# Challenges\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.pdb
+D:\Revature\KylerD\HackerRank C# Challenges\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.genruntimeconfig.cache

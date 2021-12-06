@@ -1,0 +1,14 @@
+D:\Revature\KylerD\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.csproj.AssemblyReference.cache
+D:\Revature\KylerD\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\KylerD\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.AssemblyInfoInputs.cache
+D:\Revature\KylerD\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.AssemblyInfo.cs
+D:\Revature\KylerD\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.csproj.CoreCompileInputs.cache
+D:\Revature\KylerD\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.exe
+D:\Revature\KylerD\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.deps.json
+D:\Revature\KylerD\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.runtimeconfig.json
+D:\Revature\KylerD\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.runtimeconfig.dev.json
+D:\Revature\KylerD\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.dll
+D:\Revature\KylerD\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.pdb
+D:\Revature\KylerD\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.dll
+D:\Revature\KylerD\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.pdb
+D:\Revature\KylerD\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.genruntimeconfig.cache

@@ -42,6 +42,12 @@ namespace AbstractClassesChallenge
         
         // This method sets the Area of the shape
         protected abstract void SetArea();
-
+        public virtual double MyArea
+        {
+            get
+            {
+                return area;
+            }
+        }
     }
 }

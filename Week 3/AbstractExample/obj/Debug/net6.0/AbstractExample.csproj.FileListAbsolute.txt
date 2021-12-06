@@ -1,0 +1,15 @@
+D:\Revature\KylerD\AbstractExample\bin\Debug\net6.0\AbstractExample.exe
+D:\Revature\KylerD\AbstractExample\bin\Debug\net6.0\AbstractExample.deps.json
+D:\Revature\KylerD\AbstractExample\bin\Debug\net6.0\AbstractExample.runtimeconfig.json
+D:\Revature\KylerD\AbstractExample\bin\Debug\net6.0\AbstractExample.dll
+D:\Revature\KylerD\AbstractExample\bin\Debug\net6.0\ref\AbstractExample.dll
+D:\Revature\KylerD\AbstractExample\bin\Debug\net6.0\AbstractExample.pdb
+D:\Revature\KylerD\AbstractExample\obj\Debug\net6.0\AbstractExample.csproj.AssemblyReference.cache
+D:\Revature\KylerD\AbstractExample\obj\Debug\net6.0\AbstractExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\KylerD\AbstractExample\obj\Debug\net6.0\AbstractExample.AssemblyInfoInputs.cache
+D:\Revature\KylerD\AbstractExample\obj\Debug\net6.0\AbstractExample.AssemblyInfo.cs
+D:\Revature\KylerD\AbstractExample\obj\Debug\net6.0\AbstractExample.csproj.CoreCompileInputs.cache
+D:\Revature\KylerD\AbstractExample\obj\Debug\net6.0\AbstractExample.dll
+D:\Revature\KylerD\AbstractExample\obj\Debug\net6.0\ref\AbstractExample.dll
+D:\Revature\KylerD\AbstractExample\obj\Debug\net6.0\AbstractExample.pdb
+D:\Revature\KylerD\AbstractExample\obj\Debug\net6.0\AbstractExample.genruntimeconfig.cache

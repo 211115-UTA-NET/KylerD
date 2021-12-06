@@ -1,0 +1,15 @@
+D:\Revature\KylerD\HashSetExamples\bin\Debug\net6.0\HashSetExamples.exe
+D:\Revature\KylerD\HashSetExamples\bin\Debug\net6.0\HashSetExamples.deps.json
+D:\Revature\KylerD\HashSetExamples\bin\Debug\net6.0\HashSetExamples.runtimeconfig.json
+D:\Revature\KylerD\HashSetExamples\bin\Debug\net6.0\HashSetExamples.dll
+D:\Revature\KylerD\HashSetExamples\bin\Debug\net6.0\ref\HashSetExamples.dll
+D:\Revature\KylerD\HashSetExamples\bin\Debug\net6.0\HashSetExamples.pdb
+D:\Revature\KylerD\HashSetExamples\obj\Debug\net6.0\HashSetExamples.csproj.AssemblyReference.cache
+D:\Revature\KylerD\HashSetExamples\obj\Debug\net6.0\HashSetExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\KylerD\HashSetExamples\obj\Debug\net6.0\HashSetExamples.AssemblyInfoInputs.cache
+D:\Revature\KylerD\HashSetExamples\obj\Debug\net6.0\HashSetExamples.AssemblyInfo.cs
+D:\Revature\KylerD\HashSetExamples\obj\Debug\net6.0\HashSetExamples.csproj.CoreCompileInputs.cache
+D:\Revature\KylerD\HashSetExamples\obj\Debug\net6.0\HashSetExamples.dll
+D:\Revature\KylerD\HashSetExamples\obj\Debug\net6.0\ref\HashSetExamples.dll
+D:\Revature\KylerD\HashSetExamples\obj\Debug\net6.0\HashSetExamples.pdb
+D:\Revature\KylerD\HashSetExamples\obj\Debug\net6.0\HashSetExamples.genruntimeconfig.cache

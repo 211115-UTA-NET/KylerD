@@ -1,0 +1,15 @@
+D:\Revature\KylerD\MyFirstDotnet\bin\Debug\net6.0\MyFirstDotnet.exe
+D:\Revature\KylerD\MyFirstDotnet\bin\Debug\net6.0\MyFirstDotnet.deps.json
+D:\Revature\KylerD\MyFirstDotnet\bin\Debug\net6.0\MyFirstDotnet.runtimeconfig.json
+D:\Revature\KylerD\MyFirstDotnet\bin\Debug\net6.0\MyFirstDotnet.dll
+D:\Revature\KylerD\MyFirstDotnet\bin\Debug\net6.0\ref\MyFirstDotnet.dll
+D:\Revature\KylerD\MyFirstDotnet\bin\Debug\net6.0\MyFirstDotnet.pdb
+D:\Revature\KylerD\MyFirstDotnet\obj\Debug\net6.0\MyFirstDotnet.csproj.AssemblyReference.cache
+D:\Revature\KylerD\MyFirstDotnet\obj\Debug\net6.0\MyFirstDotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\KylerD\MyFirstDotnet\obj\Debug\net6.0\MyFirstDotnet.AssemblyInfoInputs.cache
+D:\Revature\KylerD\MyFirstDotnet\obj\Debug\net6.0\MyFirstDotnet.AssemblyInfo.cs
+D:\Revature\KylerD\MyFirstDotnet\obj\Debug\net6.0\MyFirstDotnet.csproj.CoreCompileInputs.cache
+D:\Revature\KylerD\MyFirstDotnet\obj\Debug\net6.0\MyFirstDotnet.dll
+D:\Revature\KylerD\MyFirstDotnet\obj\Debug\net6.0\ref\MyFirstDotnet.dll
+D:\Revature\KylerD\MyFirstDotnet\obj\Debug\net6.0\MyFirstDotnet.pdb
+D:\Revature\KylerD\MyFirstDotnet\obj\Debug\net6.0\MyFirstDotnet.genruntimeconfig.cache

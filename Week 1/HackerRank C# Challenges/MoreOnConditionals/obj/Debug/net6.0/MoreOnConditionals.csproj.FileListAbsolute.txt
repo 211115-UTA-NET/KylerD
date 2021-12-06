@@ -1,0 +1,15 @@
+D:\Revature\KylerD\HackerRank C# Challenges\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.csproj.AssemblyReference.cache
+D:\Revature\KylerD\HackerRank C# Challenges\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\KylerD\HackerRank C# Challenges\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.AssemblyInfoInputs.cache
+D:\Revature\KylerD\HackerRank C# Challenges\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.AssemblyInfo.cs
+D:\Revature\KylerD\HackerRank C# Challenges\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.csproj.CoreCompileInputs.cache
+D:\Revature\KylerD\HackerRank C# Challenges\MoreOnConditionals\bin\Debug\net6.0\MoreOnConditionals.exe
+D:\Revature\KylerD\HackerRank C# Challenges\MoreOnConditionals\bin\Debug\net6.0\MoreOnConditionals.deps.json
+D:\Revature\KylerD\HackerRank C# Challenges\MoreOnConditionals\bin\Debug\net6.0\MoreOnConditionals.runtimeconfig.json
+D:\Revature\KylerD\HackerRank C# Challenges\MoreOnConditionals\bin\Debug\net6.0\MoreOnConditionals.dll
+D:\Revature\KylerD\HackerRank C# Challenges\MoreOnConditionals\bin\Debug\net6.0\ref\MoreOnConditionals.dll
+D:\Revature\KylerD\HackerRank C# Challenges\MoreOnConditionals\bin\Debug\net6.0\MoreOnConditionals.pdb
+D:\Revature\KylerD\HackerRank C# Challenges\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.dll
+D:\Revature\KylerD\HackerRank C# Challenges\MoreOnConditionals\obj\Debug\net6.0\ref\MoreOnConditionals.dll
+D:\Revature\KylerD\HackerRank C# Challenges\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.pdb
+D:\Revature\KylerD\HackerRank C# Challenges\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.genruntimeconfig.cache

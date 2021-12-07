@@ -1,0 +1,15 @@
+D:\Revature\KylerD\Week 3\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\RockPaperScissorsApp.App.csproj.AssemblyReference.cache
+D:\Revature\KylerD\Week 3\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\RockPaperScissorsApp.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\KylerD\Week 3\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\RockPaperScissorsApp.App.AssemblyInfoInputs.cache
+D:\Revature\KylerD\Week 3\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\RockPaperScissorsApp.App.AssemblyInfo.cs
+D:\Revature\KylerD\Week 3\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\RockPaperScissorsApp.App.csproj.CoreCompileInputs.cache
+D:\Revature\KylerD\Week 3\RockPaperScissorsApp\RockPaperScissorsApp.App\bin\Debug\net6.0\RockPaperScissorsApp.App.exe
+D:\Revature\KylerD\Week 3\RockPaperScissorsApp\RockPaperScissorsApp.App\bin\Debug\net6.0\RockPaperScissorsApp.App.deps.json
+D:\Revature\KylerD\Week 3\RockPaperScissorsApp\RockPaperScissorsApp.App\bin\Debug\net6.0\RockPaperScissorsApp.App.runtimeconfig.json
+D:\Revature\KylerD\Week 3\RockPaperScissorsApp\RockPaperScissorsApp.App\bin\Debug\net6.0\RockPaperScissorsApp.App.dll
+D:\Revature\KylerD\Week 3\RockPaperScissorsApp\RockPaperScissorsApp.App\bin\Debug\net6.0\ref\RockPaperScissorsApp.App.dll
+D:\Revature\KylerD\Week 3\RockPaperScissorsApp\RockPaperScissorsApp.App\bin\Debug\net6.0\RockPaperScissorsApp.App.pdb
+D:\Revature\KylerD\Week 3\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\RockPaperScissorsApp.App.dll
+D:\Revature\KylerD\Week 3\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\ref\RockPaperScissorsApp.App.dll
+D:\Revature\KylerD\Week 3\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\RockPaperScissorsApp.App.pdb
+D:\Revature\KylerD\Week 3\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\RockPaperScissorsApp.App.genruntimeconfig.cache

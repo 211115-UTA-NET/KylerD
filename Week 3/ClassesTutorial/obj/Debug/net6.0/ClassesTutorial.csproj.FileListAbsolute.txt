@@ -1,0 +1,15 @@
+D:\Revature\KylerD\Week 4\ClassesTutorial\bin\Debug\net6.0\ClassesTutorial.exe
+D:\Revature\KylerD\Week 4\ClassesTutorial\bin\Debug\net6.0\ClassesTutorial.deps.json
+D:\Revature\KylerD\Week 4\ClassesTutorial\bin\Debug\net6.0\ClassesTutorial.runtimeconfig.json
+D:\Revature\KylerD\Week 4\ClassesTutorial\bin\Debug\net6.0\ClassesTutorial.dll
+D:\Revature\KylerD\Week 4\ClassesTutorial\bin\Debug\net6.0\ref\ClassesTutorial.dll
+D:\Revature\KylerD\Week 4\ClassesTutorial\bin\Debug\net6.0\ClassesTutorial.pdb
+D:\Revature\KylerD\Week 4\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.csproj.AssemblyReference.cache
+D:\Revature\KylerD\Week 4\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\KylerD\Week 4\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.AssemblyInfoInputs.cache
+D:\Revature\KylerD\Week 4\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.AssemblyInfo.cs
+D:\Revature\KylerD\Week 4\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.csproj.CoreCompileInputs.cache
+D:\Revature\KylerD\Week 4\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.dll
+D:\Revature\KylerD\Week 4\ClassesTutorial\obj\Debug\net6.0\ref\ClassesTutorial.dll
+D:\Revature\KylerD\Week 4\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.pdb
+D:\Revature\KylerD\Week 4\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.genruntimeconfig.cache

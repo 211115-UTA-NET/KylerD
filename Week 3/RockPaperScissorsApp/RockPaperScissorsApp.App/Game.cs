@@ -1,99 +1,132 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Xml.Serialization;
+using Xml = RockPaperScissorsApp.App.Serialization;
 
 namespace RockPaperScissorsApp.App
 {
     public class Game
     {
-        protected int myPoints = 0;
-        protected int computerPoints = 0;
+        private List<Round> allRecords = new List<Round>();
+        public string PlayerName { get; }
+        private string[] RPS = { "Rock", "Paper", "Scissor" };
 
+        public XmlSerializer Serializer { get; } = new(typeof(List<Xml.Record>));
 
-        public string Summary
+        // constructor
+        public Game(string playerName, List<Round>? allRecords = null)
         {
-            get
+            this.PlayerName = playerName;
+            if (allRecords != null)
             {
-                return $"\nPlayer: {myPoints} \nComputer: {computerPoints}";
+                this.allRecords = allRecords;
             }
         }
 
         public void PlayRound()
         {
-            Console.WriteLine("Choose your fighter: \n1: Rock \n2: Paper \n3: Scisscors");
-            int myFighter = 0;
-            Random rnd = new Random();
-            int computerFighter;
-            while (true)
+            Console.WriteLine("1. Rock\n2. Paper\n3. Scissor");
+            string? playerChoice = null;
+            int player=0;
+            while (playerChoice == null || playerChoice.Length <= 0 )
             {
-                computerFighter = rnd.Next(1, 4);
-                Console.WriteLine(computerFighter); //Test to see what computer has selected
-                string? myEntry = Console.ReadLine();
-                bool parseEntry = int.TryParse(myEntry, out myFighter);
-                if (parseEntry == true)
+                Console.Write("What's your choice? ");
+                playerChoice = Console.ReadLine();
+                bool validchoice = int.TryParse(playerChoice, out player);
+                if (!validchoice || (player > 3 && player < 0) )
                 {
-                    if (((myFighter == 1) || (myFighter == 2) || (myFighter == 3)) && (computerFighter != myFighter))
-                        break;
-                    else if (((myFighter == 1) || (myFighter == 2) || (myFighter == 3)) && (computerFighter == myFighter))
-                        Console.WriteLine("Draw! Choose a new fighter!");
-                    else
-                        Console.WriteLine("Invalid entry. Try again.");
+                    Console.WriteLine("Invalid Choice, Try Again!");
+                    Console.WriteLine();
+                    playerChoice=null;
+                    continue;
                 }
             }
-            int results = RoundResults(myFighter, computerFighter);
-            switch (results)
+
+            if (player < 4 && player > 0)
             {
-                case 1:
-                    Console.WriteLine("You win!");
-                    myPoints++;
-                    break;
-                case 0:
-                    Console.WriteLine("You Lose...");
-                    computerPoints++;
-                    break;
+                Random random = new Random();
+                int PCchoice = random.Next(1, 4);
+                Console.WriteLine();
+                Console.WriteLine($"You choose [{RPS[player - 1]}]");
+                Console.WriteLine($"PC gives you a [{RPS[PCchoice - 1]}]");
+                // Rock !< Scissor
+                if(PCchoice == 1 && player == 3)
+                {
+                    AddRecord(PCchoice, player, "Lose");
+                }
+                else if (PCchoice < player )
+                {
+                    AddRecord(PCchoice, player, "Win");
+                }
+                else if (PCchoice > player)
+                {
+                    AddRecord(PCchoice, player, "Lose");
+                }
+                else
+                {
+                    AddRecord(PCchoice, player, "A Tie");
+                }
+            }
+        }
+        private void AddRecord(int pc, int player, string result)
+        {
+            Move move1 = (Move)Enum.Parse(typeof(Move), RPS[pc - 1]);
+            Move move2 = (Move)Enum.Parse(typeof(Move), RPS[player - 1]);
+
+            var record = new Round(DateTime.Now, move1, move2);
+            allRecords.Add(record);
+            if (result == "A Tie")
+            {
+                Console.WriteLine($"You have {result}!");
+            }
+            else
+            {
+                Console.WriteLine($"You {result}!");
             }
         }
 
-        public int RoundResults(int myFighter, int computerFighter)
+        public void Summary()
         {
-            string myChoice = "";
-            if (myFighter == 1)
-                myChoice = "Rock";
-            else if (myFighter == 2)
-                myChoice = "Paper";
-            else if (myFighter == 3)
-                myChoice = "Scissors";
-
-            string computerChoice = "";
-            if (computerFighter == 1)
-                computerChoice = "Rock";
-            else if (computerFighter == 2)
-                computerChoice = "Paper";
-            else if (computerFighter == 3)
-                computerChoice = "Scissors";
-
-            Console.WriteLine($"\nPlayer: {myChoice} \nVS \nComputer: {computerChoice}");
-            if (myFighter == 1)
+            var summary = new StringBuilder();
+            summary.AppendLine($"Date\t\t\tComputer\t{PlayerName}\t\tResult");
+            summary.AppendLine("---------------------------------------------------------------");
+            foreach (var record in allRecords)
             {
-                if (computerFighter == 3)
-                    return 1;
-                else
-                    return 0;
+                summary.AppendLine($"{record.Date}\t{record.Player1}\t\t{record.Player2}\t\t{record.Result}");
+            }
+            summary.AppendLine("---------------------------------------------------------------");
+            
+            Console.WriteLine(summary.ToString());
+        }
+
+        public string SerializeAsXml()
+        {
+            var xmlRecords = new List<Xml.Record>();
+
+            foreach (Round record in allRecords)
+            {
+                //var xml = new Xml.Record();
+                //xml.When = record.Date;
+                //xml.PlayerMove = record.Player;
+                //xml.CPUMove = record.PC;
+                //xml.Result = record.result;
+                // "property initializer" syntax - call a constructor & set properties in one go.
+                xmlRecords.Add(new Xml.Record
+                {
+                    When = record.Date,
+                    PlayerMove = record.Player1.ToString(),
+                    CPUMove = record.Player2.ToString(),
+                    Result = record.Result.ToString()
+                });
             }
 
-            else if (myFighter == 2)
-            {
-                if (computerFighter == 1)
-                    return 1;
-                else
-                    return 0;
-            }
-
-            else
-            {
-                if (computerFighter == 2)
-                    return 1;
-                else
-                    return 0;
-            }
+            var stringWriter = new StringWriter();
+            Serializer.Serialize(stringWriter, xmlRecords);
+            stringWriter.Close();
+            return stringWriter.ToString();
         }
     }
 }

@@ -1,0 +1,15 @@
+D:\Revature\KylerD\Week 3\ReadAndWriteToFile_RPSPractice\RockPaperScissorsApp\RockPaperScissorsApp.APP\bin\Debug\net6.0\RockPaperScissorsApp.APP.exe
+D:\Revature\KylerD\Week 3\ReadAndWriteToFile_RPSPractice\RockPaperScissorsApp\RockPaperScissorsApp.APP\bin\Debug\net6.0\RockPaperScissorsApp.APP.deps.json
+D:\Revature\KylerD\Week 3\ReadAndWriteToFile_RPSPractice\RockPaperScissorsApp\RockPaperScissorsApp.APP\bin\Debug\net6.0\RockPaperScissorsApp.APP.runtimeconfig.json
+D:\Revature\KylerD\Week 3\ReadAndWriteToFile_RPSPractice\RockPaperScissorsApp\RockPaperScissorsApp.APP\bin\Debug\net6.0\RockPaperScissorsApp.APP.dll
+D:\Revature\KylerD\Week 3\ReadAndWriteToFile_RPSPractice\RockPaperScissorsApp\RockPaperScissorsApp.APP\bin\Debug\net6.0\ref\RockPaperScissorsApp.APP.dll
+D:\Revature\KylerD\Week 3\ReadAndWriteToFile_RPSPractice\RockPaperScissorsApp\RockPaperScissorsApp.APP\bin\Debug\net6.0\RockPaperScissorsApp.APP.pdb
+D:\Revature\KylerD\Week 3\ReadAndWriteToFile_RPSPractice\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\RockPaperScissorsApp.APP.csproj.AssemblyReference.cache
+D:\Revature\KylerD\Week 3\ReadAndWriteToFile_RPSPractice\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\RockPaperScissorsApp.APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\KylerD\Week 3\ReadAndWriteToFile_RPSPractice\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\RockPaperScissorsApp.APP.AssemblyInfoInputs.cache
+D:\Revature\KylerD\Week 3\ReadAndWriteToFile_RPSPractice\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\RockPaperScissorsApp.APP.AssemblyInfo.cs
+D:\Revature\KylerD\Week 3\ReadAndWriteToFile_RPSPractice\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\RockPaperScissorsApp.APP.csproj.CoreCompileInputs.cache
+D:\Revature\KylerD\Week 3\ReadAndWriteToFile_RPSPractice\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\RockPaperScissorsApp.APP.dll
+D:\Revature\KylerD\Week 3\ReadAndWriteToFile_RPSPractice\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\ref\RockPaperScissorsApp.APP.dll
+D:\Revature\KylerD\Week 3\ReadAndWriteToFile_RPSPractice\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\RockPaperScissorsApp.APP.pdb
+D:\Revature\KylerD\Week 3\ReadAndWriteToFile_RPSPractice\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\RockPaperScissorsApp.APP.genruntimeconfig.cache

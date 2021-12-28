@@ -1674,11 +1674,24 @@
       "RockPaperScissorsApp.App/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "RockPaperScissorsApp.Logic": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/RockPaperScissorsApp.App.dll": {}
         },
         "runtime": {
           "bin/placeholder/RockPaperScissorsApp.App.dll": {}
+        }
+      },
+      "RockPaperScissorsApp.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/RockPaperScissorsApp.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RockPaperScissorsApp.Logic.dll": {}
         }
       }
     }
@@ -5977,6 +5990,11 @@
       "type": "project",
       "path": "../RockPaperScissorsApp.App/RockPaperScissorsApp.App.csproj",
       "msbuildProject": "../RockPaperScissorsApp.App/RockPaperScissorsApp.App.csproj"
+    },
+    "RockPaperScissorsApp.Logic/1.0.0": {
+      "type": "project",
+      "path": "../RockPaperScissorsApp.Logic/RockPaperScissorsApp.Logic.csproj",
+      "msbuildProject": "../RockPaperScissorsApp.Logic/RockPaperScissorsApp.Logic.csproj"
     }
   },
   "projectFileDependencyGroups": {

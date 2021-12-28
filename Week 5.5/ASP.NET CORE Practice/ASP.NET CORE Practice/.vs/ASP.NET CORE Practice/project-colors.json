@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a16c562-528c-4aba-9bed-5c8698d4cec2": {
+      "ProjectGuid": "9a16c562-528c-4aba-9bed-5c8698d4cec2",
+      "DisplayName": "ASP.NET CORE Practice",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

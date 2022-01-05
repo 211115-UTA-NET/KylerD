@@ -1,4 +1,7 @@
+using System.Net.Mime;
 using System.Text;
+using System.Xml.Serialization;
+using ASP.NET_CORE_Practice;
 using Microsoft.AspNetCore.Server.Kestrel.Core;
 
 WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
@@ -34,3 +37,28 @@ app.Run(context =>
 });
 
 app.Run();
+
+
+
+//var serializer = new XmlSerializer();
+//List<Data> theData = new()
+//{
+//    new Data { Number = 3, More = new() },
+//    new Data { Number = 2, More = new() },
+//    new Data { Number = 5 }
+//};
+
+//app.Use(async (context, next) =>
+//{
+//    if (context.Request.Path.StartsWithSegments("/data"))
+//    {
+//        context.Response.StatusCode = StatusCodes.Status200OK;
+//        context.Response.ContentType = MediaTypeNames.Text.Xml;
+
+//        serializer.Serialize(stream: context.Response.Body, o: theData);
+//    }
+//    else
+//    {
+//        await next(context);
+//    }
+//});

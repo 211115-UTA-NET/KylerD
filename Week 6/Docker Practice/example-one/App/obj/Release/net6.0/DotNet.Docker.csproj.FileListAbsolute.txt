@@ -1,0 +1,15 @@
+D:\Revature\KylerD\Week 6\Docker Practice\example-one\App\bin\Release\net6.0\DotNet.Docker.exe
+D:\Revature\KylerD\Week 6\Docker Practice\example-one\App\bin\Release\net6.0\DotNet.Docker.deps.json
+D:\Revature\KylerD\Week 6\Docker Practice\example-one\App\bin\Release\net6.0\DotNet.Docker.runtimeconfig.json
+D:\Revature\KylerD\Week 6\Docker Practice\example-one\App\bin\Release\net6.0\DotNet.Docker.dll
+D:\Revature\KylerD\Week 6\Docker Practice\example-one\App\bin\Release\net6.0\ref\DotNet.Docker.dll
+D:\Revature\KylerD\Week 6\Docker Practice\example-one\App\bin\Release\net6.0\DotNet.Docker.pdb
+D:\Revature\KylerD\Week 6\Docker Practice\example-one\App\obj\Release\net6.0\DotNet.Docker.csproj.AssemblyReference.cache
+D:\Revature\KylerD\Week 6\Docker Practice\example-one\App\obj\Release\net6.0\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\KylerD\Week 6\Docker Practice\example-one\App\obj\Release\net6.0\DotNet.Docker.AssemblyInfoInputs.cache
+D:\Revature\KylerD\Week 6\Docker Practice\example-one\App\obj\Release\net6.0\DotNet.Docker.AssemblyInfo.cs
+D:\Revature\KylerD\Week 6\Docker Practice\example-one\App\obj\Release\net6.0\DotNet.Docker.csproj.CoreCompileInputs.cache
+D:\Revature\KylerD\Week 6\Docker Practice\example-one\App\obj\Release\net6.0\DotNet.Docker.dll
+D:\Revature\KylerD\Week 6\Docker Practice\example-one\App\obj\Release\net6.0\ref\DotNet.Docker.dll
+D:\Revature\KylerD\Week 6\Docker Practice\example-one\App\obj\Release\net6.0\DotNet.Docker.pdb
+D:\Revature\KylerD\Week 6\Docker Practice\example-one\App\obj\Release\net6.0\DotNet.Docker.genruntimeconfig.cache

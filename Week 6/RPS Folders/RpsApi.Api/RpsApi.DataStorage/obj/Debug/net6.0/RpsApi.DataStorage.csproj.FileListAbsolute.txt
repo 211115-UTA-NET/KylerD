@@ -1,0 +1,15 @@
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.DataStorage\bin\Debug\net6.0\RpsApi.DataStorage.deps.json
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.DataStorage\bin\Debug\net6.0\RpsApi.DataStorage.dll
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.DataStorage\bin\Debug\net6.0\ref\RpsApi.DataStorage.dll
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.DataStorage\bin\Debug\net6.0\RpsApi.DataStorage.pdb
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.DataStorage\bin\Debug\net6.0\RpsApi.Logic.dll
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.DataStorage\bin\Debug\net6.0\RpsApi.Logic.pdb
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.DataStorage\obj\Debug\net6.0\RpsApi.DataStorage.csproj.AssemblyReference.cache
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.DataStorage\obj\Debug\net6.0\RpsApi.DataStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.DataStorage\obj\Debug\net6.0\RpsApi.DataStorage.AssemblyInfoInputs.cache
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.DataStorage\obj\Debug\net6.0\RpsApi.DataStorage.AssemblyInfo.cs
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.DataStorage\obj\Debug\net6.0\RpsApi.DataStorage.csproj.CoreCompileInputs.cache
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.DataStorage\obj\Debug\net6.0\RpsApi.DataStorage.csproj.CopyComplete
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.DataStorage\obj\Debug\net6.0\RpsApi.DataStorage.dll
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.DataStorage\obj\Debug\net6.0\ref\RpsApi.DataStorage.dll
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.DataStorage\obj\Debug\net6.0\RpsApi.DataStorage.pdb

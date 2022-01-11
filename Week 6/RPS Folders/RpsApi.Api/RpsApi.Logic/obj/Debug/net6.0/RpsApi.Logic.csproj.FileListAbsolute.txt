@@ -1,0 +1,12 @@
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.Logic\bin\Debug\net6.0\RpsApi.Logic.deps.json
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.Logic\bin\Debug\net6.0\RpsApi.Logic.dll
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.Logic\bin\Debug\net6.0\ref\RpsApi.Logic.dll
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.Logic\bin\Debug\net6.0\RpsApi.Logic.pdb
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.Logic\obj\Debug\net6.0\RpsApi.Logic.csproj.AssemblyReference.cache
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.Logic\obj\Debug\net6.0\RpsApi.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.Logic\obj\Debug\net6.0\RpsApi.Logic.AssemblyInfoInputs.cache
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.Logic\obj\Debug\net6.0\RpsApi.Logic.AssemblyInfo.cs
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.Logic\obj\Debug\net6.0\RpsApi.Logic.csproj.CoreCompileInputs.cache
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.Logic\obj\Debug\net6.0\RpsApi.Logic.dll
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.Logic\obj\Debug\net6.0\ref\RpsApi.Logic.dll
+D:\Revature\KylerD\Week 6\RPS Folders\RpsApi.Api\RpsApi.Logic\obj\Debug\net6.0\RpsApi.Logic.pdb

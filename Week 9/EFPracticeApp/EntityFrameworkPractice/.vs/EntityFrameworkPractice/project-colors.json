@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a1453cc2-f916-49b1-a19a-2f1493b76a7a": {
+      "ProjectGuid": "a1453cc2-f916-49b1-a19a-2f1493b76a7a",
+      "DisplayName": "EntityFrameworkPractice",
+      "ColorIndex": 0
+    },
+    "b1c5ac3f-c51b-486d-983c-f9b57cce20ac": {
+      "ProjectGuid": "b1c5ac3f-c51b-486d-983c-f9b57cce20ac",
+      "DisplayName": "DataInfrastructure",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

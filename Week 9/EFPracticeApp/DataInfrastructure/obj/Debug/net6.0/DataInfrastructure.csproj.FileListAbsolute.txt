@@ -1,0 +1,14 @@
+D:\Revature\KylerD\Week 9\EFPracticeApp\DataInfrastructure\bin\Debug\net6.0\DataInfrastructure.deps.json
+D:\Revature\KylerD\Week 9\EFPracticeApp\DataInfrastructure\bin\Debug\net6.0\DataInfrastructure.runtimeconfig.json
+D:\Revature\KylerD\Week 9\EFPracticeApp\DataInfrastructure\bin\Debug\net6.0\DataInfrastructure.dll
+D:\Revature\KylerD\Week 9\EFPracticeApp\DataInfrastructure\bin\Debug\net6.0\ref\DataInfrastructure.dll
+D:\Revature\KylerD\Week 9\EFPracticeApp\DataInfrastructure\bin\Debug\net6.0\DataInfrastructure.pdb
+D:\Revature\KylerD\Week 9\EFPracticeApp\DataInfrastructure\obj\Debug\net6.0\DataInfrastructure.csproj.AssemblyReference.cache
+D:\Revature\KylerD\Week 9\EFPracticeApp\DataInfrastructure\obj\Debug\net6.0\DataInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\KylerD\Week 9\EFPracticeApp\DataInfrastructure\obj\Debug\net6.0\DataInfrastructure.AssemblyInfoInputs.cache
+D:\Revature\KylerD\Week 9\EFPracticeApp\DataInfrastructure\obj\Debug\net6.0\DataInfrastructure.AssemblyInfo.cs
+D:\Revature\KylerD\Week 9\EFPracticeApp\DataInfrastructure\obj\Debug\net6.0\DataInfrastructure.csproj.CoreCompileInputs.cache
+D:\Revature\KylerD\Week 9\EFPracticeApp\DataInfrastructure\obj\Debug\net6.0\DataInfrastructure.dll
+D:\Revature\KylerD\Week 9\EFPracticeApp\DataInfrastructure\obj\Debug\net6.0\ref\DataInfrastructure.dll
+D:\Revature\KylerD\Week 9\EFPracticeApp\DataInfrastructure\obj\Debug\net6.0\DataInfrastructure.pdb
+D:\Revature\KylerD\Week 9\EFPracticeApp\DataInfrastructure\obj\Debug\net6.0\DataInfrastructure.genruntimeconfig.cache
